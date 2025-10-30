@@ -5,7 +5,7 @@ Exploratory Data Analysis of Ozone and Air Quality dataset using Python
 This notebook explores air quality trends using ozone and AQI data.
 
 ## 🗂️ Dataset Source
-The dataset used in this project was downloaded from **DataCamp** as part of the  
+The dataset used in this project can be downloaded from **DataCamp** as part of the  
 ☁️ [**“Cleaning Data and the Skies”**](https://app.datacamp.com/learn/competitions/cleaning-data-skies) competition.
 
 ## 🎯 Objectives
